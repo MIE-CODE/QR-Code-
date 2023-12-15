@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/image-qr-code.png)
+![](./images/Screenshot%202023-12-15%20113052.png)
 
 ### Links
 
@@ -42,6 +42,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [M'I'E](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [M'I'E](https://israel-portfolio-2.vercel.app/)
+- Frontend Mentor - [@MIE-CODE](https://www.frontendmentor.io/profile/MIE-CODE)
+- Twitter - [@M_I_E_CODE](https://twitter.com/M_I_E_CODE)
